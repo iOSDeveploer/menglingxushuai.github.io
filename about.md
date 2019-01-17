@@ -3,7 +3,7 @@ layout: page
 title: 关于我 
 ---
 
- iOS 开发者
+> 厚德可载物，拙诚可信人。
 
-{% include comments.html %}
+我是孟令旭，一个92年的小白羊。喜欢音乐,热爱生活。
 
