@@ -9,8 +9,8 @@ avatarDesc: iOS
 url: "https://menglingxushuai.github.io/"
 
 # Comment
-comment:
-    disqus: menglingxushuai
+# comment:
+#     disqus: menglingxushuai
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
@@ -36,8 +36,6 @@ social:
 #
 #
 #  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
-#
 #
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
 
